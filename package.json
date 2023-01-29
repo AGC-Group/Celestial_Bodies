@@ -1,0 +1,20 @@
+{
+  "name": "planet-vite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/dat.gui": "^0.7.7",
+    "dat.gui": "^0.7.9",
+    "vite": "^4.0.0",
+    "vite-plugin-string": "^1.2.1"
+  },
+  "dependencies": {
+    "three": "^0.148.0"
+  }
+}
